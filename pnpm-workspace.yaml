@@ -1,0 +1,7 @@
+packages:
+  - 'packages/*'
+  - 'config/*'
+  - 'examples/react/*'
+  - 'examples/solid/*'
+  - 'examples/svelte/*'
+  - 'examples/vue/*'

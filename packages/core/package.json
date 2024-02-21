@@ -1,0 +1,22 @@
+{
+  "name": "@ntn-calendar-scheduler/core",
+  "version": "1.0.0",
+  "description": "Your package description",
+  "main": "build/index.js",
+  "scripts": {
+    "clean": "rimraf ./build",
+    "test": "vitest",
+    "test:dev": "pnpm test:lib --watch"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.3.1"
+  },
+  "devDependencies": {
+    "@ntn-calendar-scheduler/tsconfig": "workspace:*",
+    "jsdom": "^24.0.0",
+    "vitest": "^1.3.0"
+  }
+}

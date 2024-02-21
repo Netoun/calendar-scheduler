@@ -1,0 +1,17 @@
+{
+  "name": "@ntn-calendar-scheduler/root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "turbo run test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "prettier": "^3.2.5",
+    "turbo": "^1.12.4"
+  }
+}
